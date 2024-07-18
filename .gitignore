@@ -1,0 +1,8 @@
+/build/
+src/*.egg-info/
+src/*.so/
+/venv/
+/.venv/
+/.tox/
+/.idea/
+go.sum
